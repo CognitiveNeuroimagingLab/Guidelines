@@ -1,0 +1,1 @@
+What specific types of problems do you anticipate with code from the CNL? How should code be organized? What is the best way to distinguish between reusable tools and project specific code?
