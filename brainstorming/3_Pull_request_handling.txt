@@ -2,3 +2,5 @@ It is generally considered a good idea to use pull requests. Then someone else n
 Goodbye
 hello
 Hello again
+hello
+Goodbye again
