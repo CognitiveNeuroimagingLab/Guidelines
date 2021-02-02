@@ -1,1 +1,4 @@
-A big part of Github Flow is making new branches for individual features, but what should our lab consider a "feature." For instance, adding time-frequency analysis for optical data may be a collection of functions that integrates with p_pod. Should the "feature" be the whole time-frequency analysis, a collection of semantically related functions, an individual function, part of a function that someone has time to work on, etc? 
+A big part of Github Flow is making new branches for individual features, but what should our lab consider a "feature."
+ For instance, adding time-frequency analysis for optical data may be a collection of functions that integrates with p_pod. 
+ Should the "feature" be the whole time-frequency analysis, a collection of semantically related functions, an individual 
+ function, part of a function that someone has time to work on, etc? 
