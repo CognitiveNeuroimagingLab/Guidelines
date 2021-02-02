@@ -1,2 +1,3 @@
 It is generally considered a good idea to use pull requests. Then someone else needs to evaluate your code, and there is an additional step before you incorporate a catastrophic mistake. Is this necessary for the lab? Who should handle pull requests? Should we give everyone the power to push directly to the remote repository? Hello
 Goodbye
+hello
