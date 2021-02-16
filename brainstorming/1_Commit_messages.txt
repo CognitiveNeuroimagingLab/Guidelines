@@ -1,1 +1,3 @@
 How descriptive should commit messages be? Should this be enforced? What is the right balance between committing often and being descriptive? 
+
+- change 1
